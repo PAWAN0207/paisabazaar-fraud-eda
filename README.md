@@ -1,5 +1,13 @@
 # 💳 Paisabazaar Fraud Risk Analysis
-Python | Exploratory Data Analysis | Data Visualization
+
+![PROJECT](https://img.shields.io/badge/PROJECT-Fraud%20Risk%20Analysis-red?style=for-the-badge)
+![DOMAIN](https://img.shields.io/badge/DOMAIN-Financial%20Analytics-darkgreen?style=for-the-badge)
+![PYTHON](https://img.shields.io/badge/PYTHON-3.8+-blue?style=for-the-badge&logo=python&logoColor=white)
+![PANDAS](https://img.shields.io/badge/PANDAS-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PLOTLY](https://img.shields.io/badge/PLOTLY-Interactive-3f4f75?style=for-the-badge&logo=plotly&logoColor=white)
+![EDA](https://img.shields.io/badge/TYPE-Exploratory%20Data%20Analysis-orange?style=for-the-badge)
+
+Financial Fraud Analytics | Data Visualization | Risk Insights
 
 An in-depth Exploratory Data Analysis (EDA) project on a financial fraud dataset to uncover patterns, risk indicators, and customer behavior insights.  
 This analysis helps identify high-risk profiles and potential fraud signals in banking data.
